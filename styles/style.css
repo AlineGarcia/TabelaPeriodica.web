@@ -1,0 +1,68 @@
+body {
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card {
+    width: 59px;
+    height: 59px;
+    border-radius: 8px;
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.card:hover {
+    box-shadow: 1px 2px 4px 0px rgb(255 255 255);
+
+}
+
+.d-flex {
+    display: flex;
+}
+
+.espacador {
+    margin-inline-start: auto;
+}
+
+.cor-verd {
+    background-color: green;
+}
+.cor-laranja {
+    background-color: rgb(255, 136, 0);
+}
+.cor-violet {
+    background-color: blueviolet;
+}
+.cor-amarelo {
+    background-color: rgb(233, 233, 36);
+}
+.cor-marrom {
+    background-color: brown;
+}
+.cor-verdneon {
+    background-color: rgba(21, 248, 14, 0.836);
+}
+.cor-azul {
+    background-color: rgb(14, 155, 236);
+}
+.cor-branco
+{
+    background-color: rgb(226, 219, 219);
+}
+.cor-rosa {
+    background-color: rgb(212, 16, 98);
+}
